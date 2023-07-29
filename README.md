@@ -1,3 +1,4 @@
 # Hello-world
 # about myself
-**dfv
+# I am Alinura
+# My major is Computer Science
